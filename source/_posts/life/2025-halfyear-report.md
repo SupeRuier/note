@@ -2,8 +2,8 @@
 title: 超级 Rui 的 2025 的半年度总结
 date: 2025-08-11 23:00:00
 updated: 2025-08-11 23:00:00
-index_img: /gallery/covers/2025-year-report.jpg
-banner_img: /gallery/covers/2025-year-report.jpg
+index_img: /gallery/covers/2025-halfyear-report.jpg
+banner_img: /gallery/covers/2025-halfyear-report.jpg
 toc: true
 categories:
 - Life
